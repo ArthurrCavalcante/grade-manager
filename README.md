@@ -1,7 +1,3 @@
-Claro! Aqui está o texto:
-
----
-
 # Grade Manager API
 
 API REST para gerenciamento de notas acadêmicas, desenvolvida com Spring Boot 3 como projeto de portfólio.
@@ -82,7 +78,3 @@ GET /api/v1/grades/report/student/1
 ## Autor
 
 Arthur Cavalcante — [LinkedIn](https://linkedin.com/in/arthur-victor-cavalcante) · [GitHub](https://github.com/ArthurrCavalcante)
-
----
-
-É só copiar e colar direto no arquivo `README.md` do repositório!
